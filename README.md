@@ -11,7 +11,7 @@ Descarga la carpeta “Attack!!!”
 ¿Como que cómo? Es fácil ve a… Code - Download Zip = Y listo. Ya tienes la carpeta
 
 Tercer Paso:
-Ingresa a la misma carpeta “Attack!!!” en descargas de tu PC o laptop y localiza en la carpeta “Attack!!!_Game” 
+Ingresa a la misma carpeta “Attack!!!” en descargas de tu PC o laptop y localiza en la carpeta “Attack!!!_Game2,0” 
 
 Cuarto Paso:
 Ingresa “Attack!!!_Game.exe” Dando doble Clik. Y disfruta el juego. Y cuidado con las abducciones alienígena :D 
