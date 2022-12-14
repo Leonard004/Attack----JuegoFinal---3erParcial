@@ -13,7 +13,6 @@ GameObject:
   - component: {fileID: 6677199181272289811}
   - component: {fileID: 6460515829499532158}
   - component: {fileID: 7374181836147625628}
-  - component: {fileID: 5720635772291530013}
   m_Layer: 0
   m_Name: Disparo_2,0
   m_TagString: Atack
@@ -148,17 +147,3 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 13.73, y: 3.91}
   m_EdgeRadius: 0
---- !u!114 &5720635772291530013
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1833006251145783225}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: f751aa25b1a9d9f42bad251d2b1cd1f6, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  scorePoints: {fileID: 0}
-  points: 0
