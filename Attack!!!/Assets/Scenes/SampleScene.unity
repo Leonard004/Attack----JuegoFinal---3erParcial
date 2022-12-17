@@ -152,7 +152,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 7a94c11341d78b447b0cd7bdb0f5193c, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.09
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -5812,7 +5812,7 @@ MonoBehaviour:
   audioSourceEFFctRef: {fileID: 1958902921}
   audioClipsSoundtrack: []
   audioClipsVFX: []
-  SoundtrackVolume: 0.3
+  SoundtrackVolume: 0.1
 --- !u!4 &760420376
 Transform:
   m_ObjectHideFlags: 0
@@ -6185,7 +6185,7 @@ GameObject:
   m_Layer: 0
   m_Name: BombaNuclearSpwaner
   m_TagString: Untagged
-  m_Icon: {fileID: 5132851093641282708, guid: 0000000000000000d000000000000000, type: 0}
+  m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
